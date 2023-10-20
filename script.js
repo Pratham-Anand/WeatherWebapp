@@ -2,8 +2,8 @@ const url = 'https://weather-by-api-ninjas.p.rapidapi.com/v1/weather?city='+city
 const options = {
     method: 'GET',
     headers: {
-        'X-RapidAPI-Key': '81fd283e94msh5c6cd1b156270d8p189bfcjsndc78192cbd89',
-        'X-RapidAPI-Host': 'weather-by-api-ninjas.p.rapidapi.com'
+        'X-RapidAPI-Key': '',
+        'X-RapidAPI-Host': ''
     }
 };
 
