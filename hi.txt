@@ -1,0 +1,20 @@
+{"cloud_pct"
+
+ 75, "temp"
+ : 16, "feels_like"
+  16, "humidity"
+   78, "min_temp"
+    14, "max_temp" 
+    18, "wind_speed": 5.81, "wind_degrees": 11, "sunrise": 1697812501, "sunset": 1697850775}
+
+
+Cloud_pct
+Temp
+Feels_like 
+Humidity 
+Min_temp 
+Max_temp 
+Wind_speed
+Wind_degrees
+Sunrise 
+Sunset     
